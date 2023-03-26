@@ -13,6 +13,7 @@
 ### 字符串相关：
 
  * [Manacher(马拉车)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Manacher.md)
+ * [KMP](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/KMP.md)
  ### 树相关：
  * [并查集](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/并查集.md)
  ### 图相关：
