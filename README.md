@@ -25,3 +25,4 @@
  ### 其他：
 
  * [全排列](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/全排列.md)
+ * [BinarySearch(二分查找)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/BinarySearch.md)
