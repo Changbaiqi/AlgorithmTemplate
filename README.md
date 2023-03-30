@@ -22,7 +22,21 @@
  * [Kruskal(克鲁斯卡尔)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Kruskal.md)
  * [Prim(普利姆)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Prim.md)
 
+ ### 数论：
+
+ * [判断是否为素数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/判断是否为素数.md)
+ * [最大公约数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/最大公约数.md)
+ * [日期合格及平年闰年判断](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/日期合格及平年闰年判断.md)
+
  ### 其他：
 
  * [全排列](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/全排列.md)
  * [BinarySearch(二分查找)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/BinarySearch.md)
+
+### Java特有：
+
+* [Java大数字运算](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Java大数字运算使用技巧.md)
+
+* [Java日期类](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Java日期类使用技巧.md)
+
+* [Java正则使用](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Java正则使用技巧.md)
