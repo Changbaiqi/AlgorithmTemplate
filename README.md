@@ -21,11 +21,13 @@
  * [BFS(广度优先搜索)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/BFS.md)
  * [Kruskal(克鲁斯卡尔)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Kruskal.md)
  * [Prim(普利姆)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Prim.md)
+ * [Dijkstra](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/DIjkstra.md)
 
  ### 数论：
 
  * [判断是否为素数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/判断是否为素数.md)
  * [最大公约数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/最大公约数.md)
+ * [求最小公倍数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/求最小公倍数.md)
  * [日期合格及平年闰年判断](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/日期合格及平年闰年判断.md)
 
  ### 其他：
