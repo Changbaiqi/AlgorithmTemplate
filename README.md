@@ -2,7 +2,7 @@
 
 ---
 
-> 这里整理了一些个人的算法模板，同时也方便以后比赛回顾方便，有需要的自取。
+> 这里整理了一些个人自己整理的算法模板，同时也方便以后比赛回顾方便，有需要的自取。
 
 > 各位老板行行好，给个Star吧~
 
@@ -29,6 +29,8 @@
  * [最大公约数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/最大公约数.md)
  * [求最小公倍数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/求最小公倍数.md)
  * [日期合格及平年闰年判断](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/日期合格及平年闰年判断.md)
+ * [直线相关](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/直线.md)
+ * [圆相关](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/圆相关.md)
 
  ### 其他：
 
