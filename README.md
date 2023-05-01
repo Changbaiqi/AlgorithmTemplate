@@ -15,6 +15,9 @@
  * [Manacher(马拉车)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Manacher.md)
  * [KMP](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/KMP.md)
  ### 树相关：
+
+* [树状数组](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/树状数组.md)
+
  * [并查集](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/并查集.md)
  ### 图相关：
  * [DFS(深度优先搜索)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/DFS.md)
