@@ -18,6 +18,8 @@
 
 * [树状数组](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/树状数组.md)
 
+* [SegmentTree(线段树)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/SegmentTree(线段树).md)
+
  * [并查集](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/并查集.md)
  ### 图相关：
  * [DFS(深度优先搜索)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/DFS.md)
