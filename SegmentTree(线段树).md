@@ -5,6 +5,14 @@
 ## 说明：
 
 > 线段树模板
+>
+> 推荐视屏：
+>
+> [【喵的算法课】线段树 数据结构【6期】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yF411p7Bt/?vd_source=fbdc4dced00d004504f57fb2f6de726b)
+>
+> 推荐文章：
+>
+> 《算法竞赛》上册 罗勇军 第175页
 
 ## Java代码模板：
 
