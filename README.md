@@ -12,17 +12,17 @@
 
 ### 字符串相关：
 
- * [Manacher(马拉车)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Manacher.md)
- * [KMP](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/KMP.md)
+ * [Manacher(马拉车)](./算法模板/Manacher.md)
+ * [KMP](./算法模板/KMP.md)
  ### 树相关：
 
-* [树状数组](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/树状数组.md)
+* [树状数组](./算法模板/树状数组.md)
 
-* [SegmentTree(线段树)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/SegmentTree(线段树).md)
+* [SegmentTree(线段树)](./算法模板/SegmentTree(线段树).md)
 
- * [并查集](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/并查集.md)
+ * [并查集](./算法模板/并查集.md)
  ### 图相关：
- * [DFS(深度优先搜索)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/DFS.md)
+ * [DFS(深度优先搜索)](./算法模板/DFS.md)
  * [BFS(广度优先搜索)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/BFS.md)
  * [Kruskal(克鲁斯卡尔)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Kruskal.md)
  * [Prim(普利姆)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Prim.md)
