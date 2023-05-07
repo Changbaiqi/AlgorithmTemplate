@@ -23,30 +23,30 @@
  * [并查集](./算法模板/并查集.md)
  ### 图相关：
  * [DFS(深度优先搜索)](./算法模板/DFS.md)
- * [BFS(广度优先搜索)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/BFS.md)
- * [Kruskal(克鲁斯卡尔)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Kruskal.md)
- * [Prim(普利姆)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Prim.md)
- * [Dijkstra](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/DIjkstra.md)
+ * [BFS(广度优先搜索)](./算法模板/BFS.md)
+ * [Kruskal(克鲁斯卡尔)](./算法模板/Kruskal.md)
+ * [Prim(普利姆)](./算法模板/Prim.md)
+ * [Dijkstra](./算法模板/DIjkstra.md)
 
  ### 数论：
 
- * [判断是否为素数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/判断是否为素数.md)
- * [最大公约数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/最大公约数.md)
- * [求最小公倍数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/求最小公倍数.md)
- * [分解质因数](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/分解质因数.md)
- * [日期合格及平年闰年判断](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/日期合格及平年闰年判断.md)
- * [直线相关](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/直线.md)
- * [圆相关](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/圆相关.md)
+ * [判断是否为素数](./算法模板/判断是否为素数.md)
+ * [最大公约数](./算法模板/最大公约数.md)
+ * [求最小公倍数](./算法模板/求最小公倍数.md)
+ * [分解质因数](./算法模板/分解质因数.md)
+ * [日期合格及平年闰年判断](./算法模板/日期合格及平年闰年判断.md)
+ * [直线相关](./算法模板/直线.md)
+ * [圆相关](./算法模板/圆相关.md)
 
  ### 其他：
 
- * [全排列](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/全排列.md)
- * [BinarySearch(二分查找)](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/BinarySearch.md)
+ * [全排列](./算法模板/全排列.md)
+ * [BinarySearch(二分查找)](./算法模板/BinarySearch.md)
 
 ### Java特有：
 
-* [Java大数字运算](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Java大数字运算使用技巧.md)
+* [Java大数字运算](./算法模板/Java大数字运算使用技巧.md)
 
-* [Java日期类](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Java日期类使用技巧.md)
+* [Java日期类](./算法模板/Java日期类使用技巧.md)
 
-* [Java正则使用](https://github.com/Changbaiqi/AlgorithmTemplate/blob/main/Java正则使用技巧.md)
+* [Java正则使用](./算法模板/Java正则使用技巧.md)
